@@ -4,7 +4,19 @@ This is a simple Blog API built using **Node.js, Express.js and MongoDB**.
 
 The API allows users to register, login and manage blog posts.
 
----
+## API Documentation (Postman)
+
+You can view the full API documentation using the Postman link below:
+
+https://documenter.getpostman.com/view/22185989/2sBXieqZ8n
+
+This documentation includes:
+
+- Authentication APIs
+- Blog APIs
+- Request examples
+- Response examples
+- Headers and parameters---
 
 ## Features
 
